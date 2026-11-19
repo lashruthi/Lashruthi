@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Lashruthi! 👋
 
-<!--
-**lashruthi/Lashruthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.Tech Computer Science and Engineering student at Saveetha Engineering College.
 
-Here are some ideas to get you started:
+### About Me
+- 🌱 Currently learning Python and Django.
+- 💻 Interested in programming, problem-solving and technology.
+- ☁️ Exploring Cloud Computing, DevOps and Artificial Intelligence.
+- 🎯 Focused on building strong technical foundations through practical learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Python (Fundamentals)
+- Django (Beginner)
+- HTML & CSS (Basics)
+
+### Current Goals
+- Improve programming and problem-solving skills.
+- Build practical projects.
+- Learn Linux, Git and Cloud technologies.
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/lashruthi-b-108686362/
+- GitHub: https://github.com/lashruthi
